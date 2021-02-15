@@ -9,7 +9,7 @@ namespace Matematik
             DortIslem dortIslem = new DortIslem();
             dortIslem.Topla(5, 10);
 
-            dortIslem.Topla(6, 9);
+            dortIslem.Topla(6, 10);
         }
     }
 }
